@@ -89,6 +89,9 @@
       "path": "git-cz"
     }
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "p4-css": "^1.1.0",
     "react-instagram-embed": "^1.5.0",
